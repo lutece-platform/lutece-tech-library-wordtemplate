@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Library word-template</title>
+    </properties>
+    <body>
+        <section name="Library word-template">
+            <subsection name="Introduction">
+                <p>La librairie word template permet de générer un document office word à partir d'un document office word servant de template. Elle est basée sur Apache POI et Apache FreeMarker.</p>
+                <p>Les éléments du language de template sont ceux de Freemarker. Actuellement seule les interpolations sont reconnues et traitées (voir le manuel Freemarker).</p>
+                <p>Pour construire le document word, la méthode à utiliser est WordTemplateService.produceDocument().</p>
+            </subsection>
+<!--            <subsection name="Configuration">
+                <p></p>
+            </subsection>
+            <subsection name="Usage">
+                <p></p>
+            </subsection>-->
+        </section>
+    </body>
+</document>
+
